@@ -12,7 +12,7 @@ Your files and your activity stay on your machine. When a tool doesn't know some
 </div>
 
 > [!NOTE]
-> **October 2026:** Coverly ROMs ships its first release · MaeclyPrint is now **Pluryprint** · **Versorium** and **Image Transform Lite** join the family · Xbox for Windows is now **Gaming Toggles for PC**.
+> **October 2026:** Coverly ROMs ships its first release · MaeclyPrint is now **Pluryprint** · **Versorium** and **Image Transform Lite** join the family.
 
 Every product here started as a friction I hit myself: writing standups by hand, printing 300 files 15 at a time, ROMs with no cover art, losing a novel draft. None of them hands that friction to someone else's server.
 
@@ -67,7 +67,7 @@ Finds the ROMs on your handheld's SD card that have no cover art and fills them 
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/MAECLY/gaming-toggles/main/com.maecly.gamingtoggles.sdPlugin/imgs/plugin/marketplace@2x.png" width="48" height="48" alt="Gaming Toggles for PC icon"><br>
 <b><a href="https://github.com/MAECLY/gaming-toggles">Gaming Toggles for PC</a></b> <sub>· stable</sub><br>
-Stream Deck plugin with seven Windows 11 gaming controls on your keys: Game Mode, Xbox full-screen mode, pointer precision, power plan A/B and more. No admin rights.<br><br>
+Stream Deck plugin with seven Windows 11 gaming controls on your keys: Game Mode, full-screen gaming mode (<kbd>Win</kbd>+<kbd>F11</kbd>), pointer precision, power plan A/B and more. No admin rights.<br><br>
 <a href="https://github.com/MAECLY/gaming-toggles/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/gaming-toggles?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
 <img src="https://img.shields.io/badge/license-MIT-555?style=flat-square" alt="License: MIT"><br>
 <a href="https://gaming-toggles.maecly.com/">Website</a> · <a href="https://marketplace.elgato.com/product/gaming-toggles-for-pc-404d89bd-746d-4d2e-ac66-ac87ef96d2e4">Elgato Marketplace</a>
