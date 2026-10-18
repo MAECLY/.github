@@ -12,7 +12,7 @@ Your files and your activity stay on your machine. When a tool doesn't know some
 </div>
 
 > [!NOTE]
-> **October 2026:** Coverly ROMs ships its first release · MaeclyPrint is now **Pluryprint** · **Versorium** joins the family · Xbox for Windows is now **Gaming Toggles for PC**.
+> **October 2026:** Coverly ROMs ships its first release · MaeclyPrint is now **Pluryprint** · **Versorium** and **Image Transform Lite** join the family · Xbox for Windows is now **Gaming Toggles for PC**.
 
 Every product here started as a friction I hit myself: writing standups by hand, printing 300 files 15 at a time, ROMs with no cover art, losing a novel draft. None of them hands that friction to someone else's server.
 
@@ -38,6 +38,17 @@ Offline novel-writing app that keeps every draft as a Git snapshot. No account, 
 <img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
 <a href="https://versorium.maecly.com/en/">Website</a> · <a href="https://github.com/MAECLY/versorium-app/releases/latest">Download</a>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://fe-image-transform-lite-landing.vercel.app/icon.png" width="48" height="48" alt="Image Transform Lite icon"><br>
+<b>Image Transform Lite</b> <sub>· stable · source private for now</sub><br>
+Batch image processing for macOS on Apple Silicon. Eight transforms (flip, rotate, safe square crop, resize, brightness, contrast, sharpness and a text watermark) with a live before/after preview and reusable presets. Outputs WebP, JPEG, PNG or TIFF.<br><br>
+<img src="https://img.shields.io/badge/release-v1.5.1-0E5E6F?style=flat-square" alt="Latest release: v1.5.1">
+<img src="https://img.shields.io/badge/license-MIT-555?style=flat-square" alt="License: MIT"><br>
+<a href="https://fe-image-transform-lite-landing.vercel.app/en/">Website</a>
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
