@@ -65,7 +65,7 @@ Finds the ROMs on your handheld's SD card that have no cover art and fills them 
 <a href="https://coverly-roms.maecly.com/en/">Website</a> · <a href="https://github.com/MAECLY/coverly-roms/releases/latest">Download</a>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/MAECLY/gaming-toggles/main/docs/assets/plugin-icon.png" width="48" height="48" alt="Gaming Toggles for PC icon"><br>
+<img src="https://raw.githubusercontent.com/MAECLY/gaming-toggles/main/com.maecly.gamingtoggles.sdPlugin/imgs/plugin/marketplace@2x.png" width="48" height="48" alt="Gaming Toggles for PC icon"><br>
 <b><a href="https://github.com/MAECLY/gaming-toggles">Gaming Toggles for PC</a></b> <sub>· stable</sub><br>
 Stream Deck plugin with seven Windows 11 gaming controls on your keys: Game Mode, Xbox full-screen mode, pointer precision, power plan A/B and more. No admin rights.<br><br>
 <a href="https://github.com/MAECLY/gaming-toggles/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/gaming-toggles?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
