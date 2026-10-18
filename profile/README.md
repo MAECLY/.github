@@ -2,74 +2,128 @@
 
 # MAECLY
 
-### Developer tools that don't lie.
+### Software that doesn't lie.
 
-**Local-first software for real frictions in a senior developer's day.**
-Your activity never leaves your machine. What a tool doesn't know, it says — it doesn't fill the gap with a zero.
+**Local-first tools for real frictions: at the desk, in the editor, on the handheld.**<br>
+Your files and your activity stay on your machine. When a tool doesn't know something, it tells you, instead of filling the gap with a zero.
 
-[maecly.com](https://www.maecly.com/) · [hola@maecly.com](mailto:hola@maecly.com) · Quito, Ecuador
+[![Website](https://img.shields.io/badge/web-maecly.com-0A0A0A?style=flat-square)](https://www.maecly.com/) [![Email](https://img.shields.io/badge/email-hola%40maecly.com-0E5E6F?style=flat-square)](mailto:hola@maecly.com) ![Location](https://img.shields.io/badge/made_in-Quito%2C_Ecuador-FFD100?style=flat-square) ![Local-first](https://img.shields.io/badge/local--first-zero_telemetry-2a6f6a?style=flat-square)
 
 </div>
 
----
+> [!NOTE]
+> **October 2026:** Coverly ROMs ships its first release · MaeclyPrint is now **Pluryprint** · **Versorium** joins the family · Xbox for Windows is now **Gaming Toggles for PC**.
 
-## What we build
-
-Every product here starts as a friction the author hit while working — writing standups by hand, printing 300 files in batches of 15, not being able to send one browser tab's audio to two speakers, having no public proof of private work — and none of them hand that friction to somebody else's server.
-
-**MAECLY** = `MAEC` (Miguel Angel Esparza Calero) + `-ly`. Not *what* gets built — *how*.
+Every product here started as a friction I hit myself: writing standups by hand, printing 300 files 15 at a time, ROMs with no cover art, losing a novel draft. None of them hands that friction to someone else's server.
 
 ---
 
-## Products
+## 🖥️ Desktop apps
 
-| Product | What it does | Stack | Status |
-|---|---|---|---|
-| **[autostand](https://github.com/MAECLY/autostand)** | Your standup, written from what you actually did — reads your commits, PRs, AI coding sessions and notes, and files a structured standup every working day. | Tauri v2 · Rust · React | **v1.2.0** · MIT · [autostand.maecly.com](https://autostand.maecly.com) |
-| **[ID Bridge IA](https://github.com/MAECLY/id-bridge-ia)** | Surfaces a tab's identity — `tabId`, `windowId`, `groupId`, `sessionId` — so browser agents know where they're operating. | WXT · TypeScript · MV3 | **Published** · [Chrome Web Store](https://chromewebstore.google.com/detail/id-bridge-ia/knfgphmhijlbgdjhcciofodedgdifpij) · [site](https://id-bridge-ia.maecly.com/) |
-| **[Xbox for Windows](https://github.com/MAECLY/stream-deck-windows-xbox-settings)** | Stream Deck plugin: toggle Windows 11 Game Mode and the Xbox Game Bar button. ES/EN, no admin rights. | TypeScript · C# · Stream Deck SDK | **v1.1.2** · MIT |
-| **OpenDesign** | Open-source, local-first design tool. Native bundles for macOS, Windows and Linux, signed updates, stable and beta channels. | Tauri · Rust · React | In development · GPL-3.0 |
-| **MaeclyPrint** | Batch printing for Windows and macOS. No 15-file limit, no Adobe required, no $149 license fee. | Tauri 2 · Rust · React | Pre-alpha · GPL-3.0 |
-| **[WorklyReel](https://github.com/MAECLY/workly-reel-landing)** | Developer Proof-of-Work: turns private development activity into credible public proof, without handing the work to a service. | Tauri v2 · Rust · Next.js | Phase 0 · [workly-reel.maecly.com](https://workly-reel.maecly.com) |
-| **Aurenly** | Sends the audio of *one* Chrome tab to the devices you actually listen on — not the whole system output. | Swift · CoreAudio · MV3 · Astro | Paused |
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/MAECLY/pluryprint/main/src-tauri/icons/128x128.png" width="56" height="56" alt="Pluryprint icon"><br>
+<b><a href="https://github.com/MAECLY/pluryprint">Pluryprint</a></b> <sub>· pre-alpha preview</sub><br>
+Right-click 5, 50 or 500 files and print them all. No 15-file Explorer limit, no Adobe, no $149 license. Windows and macOS.<br><br>
+<a href="https://github.com/MAECLY/pluryprint/releases/latest"><img src="https://img.shields.io/badge/release-v0.0.3-0E5E6F?style=flat-square" alt="Latest release: v0.0.3"></a>
+<img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
+<a href="https://pluryprint.maecly.com/en/">Website</a> · <a href="https://github.com/MAECLY/pluryprint/releases/latest">Download</a>
+</td>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/MAECLY/versorium-app/main/.github/readme/icon.png" width="48" height="48" alt="Versorium icon"><br>
+<b><a href="https://github.com/MAECLY/versorium-app">Versorium</a></b> <sub>· early release</sub><br>
+Offline novel-writing app that keeps every draft as a Git snapshot. No account, no telemetry, and the AI stays off until you call it. Windows, macOS and Linux.<br><br>
+<a href="https://github.com/MAECLY/versorium-app/releases/latest"><img src="https://img.shields.io/badge/release-v0.1.2-0E5E6F?style=flat-square" alt="Latest release: v0.1.2"></a>
+<img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
+<a href="https://versorium.maecly.com/en/">Website</a> · <a href="https://github.com/MAECLY/versorium-app/releases/latest">Download</a>
+</td>
+</tr>
+</table>
 
-*Some repositories are private while the product is in development.*
+## 🕹️ Gaming & retro
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/MAECLY/coverly-roms/main/src-tauri/icons/128x128.png" width="56" height="56" alt="Coverly ROMs icon"><br>
+<b><a href="https://github.com/MAECLY/coverly-roms">Coverly ROMs</a></b> <sub>· first release</sub><br>
+Finds the ROMs on your handheld's SD card that have no cover art and fills them in. Dry run first, undo afterwards. Desktop app and CLI for Windows, macOS and Linux.<br><br>
+<a href="https://github.com/MAECLY/coverly-roms/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/coverly-roms?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
+<a href="https://coverly-roms.maecly.com/en/">Website</a> · <a href="https://github.com/MAECLY/coverly-roms/releases/latest">Download</a>
+</td>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/MAECLY/gaming-toggles/main/docs/assets/plugin-icon.png" width="48" height="48" alt="Gaming Toggles for PC icon"><br>
+<b><a href="https://github.com/MAECLY/gaming-toggles">Gaming Toggles for PC</a></b> <sub>· stable</sub><br>
+Stream Deck plugin with seven Windows 11 gaming controls on your keys: Game Mode, Xbox full-screen mode, pointer precision, power plan A/B and more. No admin rights.<br><br>
+<a href="https://github.com/MAECLY/gaming-toggles/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/gaming-toggles?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<img src="https://img.shields.io/badge/license-MIT-555?style=flat-square" alt="License: MIT"><br>
+<a href="https://gaming-toggles.maecly.com/">Website</a> · <a href="https://marketplace.elgato.com/product/gaming-toggles-for-pc-404d89bd-746d-4d2e-ac66-ac87ef96d2e4">Elgato Marketplace</a>
+</td>
+</tr>
+</table>
+
+## 🧰 Developer tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/MAECLY/autostand/main/brand/logo/logo-mark.svg" width="48" height="48" alt="autostand icon"><br>
+<b><a href="https://github.com/MAECLY/autostand">autostand</a></b> <sub>· stable</sub><br>
+Your standup, written from what you actually did. Reads your commits, PRs, AI coding sessions and notes, and files a structured standup every working day. Works with a built-in local model runtime (model downloaded on demand) and no account.<br><br>
+<a href="https://github.com/MAECLY/autostand/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/autostand?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<img src="https://img.shields.io/badge/license-MIT-555?style=flat-square" alt="License: MIT"><br>
+<a href="https://autostand.maecly.com">Website</a> · <a href="https://github.com/MAECLY/autostand/releases/latest">Download</a>
+</td>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/MAECLY/id-bridge-ia/main/public/icon/128.png" width="48" height="48" alt="ID Bridge IA icon"><br>
+<b><a href="https://github.com/MAECLY/id-bridge-ia">ID Bridge IA</a></b> <sub>· on the Chrome Web Store</sub><br>
+Chrome extension that tells AI agents driving the browser where they are: <code>tabId</code>, <code>windowId</code>, <code>groupId</code>, a session ID and the Chrome profile. Built for chrome-devtools-mcp. Declares no host permissions.<br><br>
+<a href="https://github.com/MAECLY/id-bridge-ia/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/id-bridge-ia?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<img src="https://img.shields.io/badge/license-proprietary-555?style=flat-square" alt="License: proprietary, source visible"><br>
+<a href="https://id-bridge-ia.maecly.com/">Website</a> · <a href="https://chromewebstore.google.com/detail/id-bridge-ia/knfgphmhijlbgdjhcciofodedgdifpij">Chrome Web Store</a>
+</td>
+</tr>
+</table>
+
+## 🔭 In the works
+
+The product repositories are private while they're being built, and there's nothing to download yet.
+
+- 🎨 **OpenDesign** · pre-beta: a local-first, bring-your-own-key design tool that will be open source. AI design generation runs on your own models, and every artifact stays on disk. [opendesign.maecly.com](https://opendesign.maecly.com)
+- 🎞️ **WorklyReel** · phase 0 proof of concept: turns a day or a week of Git and GitHub activity into a ready-to-post proof-of-work card, with every claim linked back to its evidence. [workly-reel.maecly.com](https://workly-reel.maecly.com) · [landing page source](https://github.com/MAECLY/workly-reel-landing)
+- 🎧 **Aurenly** · paused: sends the audio of *one* Chrome tab to the devices you listen on, leaving the rest of your Mac's sound where it is.
 
 ---
 
-## How we build
+## 🧭 How I build
 
-Five things are true of every product in this org.
+What I aim for in every product, and where you can see it.
 
-**1 · Local-first, zero telemetry.** No application here makes a network request of its own. No cloud, no account, no analytics. `autostand`: *"Nothing leaves your machine unless you point it at a provider yourself."*
+- **🔒 Zero telemetry, no account.** No analytics anywhere. The only request an app makes on its own is an update check you can turn off. Anything else goes only to a provider or source you choose.
+- **🧪 Honesty you can see.** In autostand, a missing value reads *No data*, never `0%`, and a failed source is shown as a failure, not as a quiet day.
+- **📚 Docs first, with ADRs.** Pluryprint and Coverly ROMs keep their architecture decision records in `docs/adr` next to the code.
+- **🎨 Design systems are versioned dependencies.** [autostand-ui](https://github.com/MAECLY/autostand-ui) keeps autostand's tokens, base components and icons in their own repository, documented in Storybook.
+- **✅ One local gate.** Pluryprint, Coverly ROMs and autostand run `make check`, Versorium runs `make verify`: one command with the same steps CI runs, so a local failure reads like a remote one.
 
-**2 · Honesty is a tested property, not a promise.** The marketing site for a product cannot claim what engineering hasn't proven — there is a CI check that fails the build if it tries. A value nobody reported reads *No data*, never `0%`. A source that failed is stored and displayed differently from a quiet day. Release state is modelled as a discriminated union, so linking to a download that doesn't exist is a type error rather than a broken link.
+<details>
+<summary><b>The stack</b></summary>
+<br>
 
-**3 · Docs-first, with ADRs.** Vision, requirements, architecture, decision records and a milestone roadmap live in `docs/` before the code does.
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri_v2-24C8DB?style=flat-square&logo=tauri&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Svelte](https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**4 · Design systems are versioned dependencies.** Tokens compile to CSS custom properties, JSON, typed TS — and to a Swift package for the native surfaces. Documented in Storybook, with contract tests that fail on drift.
+Roughly half Rust, half TypeScript: desktop apps with web UIs, not websites. Also Tailwind, Storybook, WXT (Manifest V3), llama.cpp for local models, Vitest and Playwright.
 
-**5 · One CI gate.** `pnpm verify` runs lint, typecheck, build and tests *in the order CI runs them*, so a local failure reads exactly like a remote one.
+</details>
 
----
+## 🤝 Contributing
 
-## Stack
-
-`Rust` · `Tauri v2` · `TypeScript` · `React 19` · `Next.js 15/16` · `Astro` · `Swift` · `Tailwind v4` · `Radix` · `Storybook` · `WXT / MV3` · `pnpm` · `Vitest` · `Playwright` · `GitHub Actions`
-
-Roughly half Rust, half TypeScript — desktop applications with web UIs, not websites.
-
----
-
-## Contributing
-
-Issues, translations, tests and fixes are welcome on the open-source products. Each repository carries its own `CONTRIBUTING.md`, `SECURITY.md` and `CODE_OF_CONDUCT.md`; read those first. Security reports go through the repository's `SECURITY.md`, never a public issue.
+Issues, translations, tests and fixes are welcome on the open-source products (everything above except ID Bridge IA, which is source-visible but proprietary). Read the repository's `CONTRIBUTING.md` and `SECURITY.md` where present. Report security issues privately, never in a public issue.
 
 ---
 
 <div align="center">
-
-**MAECLY** · Miguel Angel Esparza Calero
-[maecly.com](https://www.maecly.com/) · [hola@maecly.com](mailto:hola@maecly.com)
-
+<sub><b>MAECLY</b> = <code>MAEC</code> (Miguel Angel Esparza Calero) + <code>-ly</code>. Not <i>what</i> gets built, but <i>how</i>.</sub><br>
+<sub><a href="https://www.maecly.com/">maecly.com</a> · <a href="mailto:hola@maecly.com">hola@maecly.com</a> · Quito, Ecuador</sub>
 </div>
