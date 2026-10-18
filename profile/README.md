@@ -7,7 +7,7 @@
 **Local-first tools for real frictions: at the desk, in the editor, on the handheld.**<br>
 Your files and your activity stay on your machine. When a tool doesn't know something, it tells you, instead of filling the gap with a zero.
 
-[![Website](https://img.shields.io/badge/web-maecly.com-0A0A0A?style=flat-square)](https://www.maecly.com/) [![Email](https://img.shields.io/badge/email-hola%40maecly.com-0E5E6F?style=flat-square)](mailto:hola@maecly.com) ![Location](https://img.shields.io/badge/made_in-Quito%2C_Ecuador-FFD100?style=flat-square) ![Local-first](https://img.shields.io/badge/local--first-zero_telemetry-2a6f6a?style=flat-square)
+[![Website](https://img.shields.io/badge/web-maecly.com-0A0A0A?style=flat-square)](https://maecly.com/) [![Email](https://img.shields.io/badge/email-hola%40maecly.com-0E5E6F?style=flat-square)](mailto:hola@maecly.com) ![Location](https://img.shields.io/badge/made_in-Quito%2C_Ecuador-FFD100?style=flat-square) ![Local-first](https://img.shields.io/badge/local--first-zero_telemetry-2a6f6a?style=flat-square)
 
 </div>
 
@@ -41,12 +41,12 @@ Offline novel-writing app that keeps every draft as a Git snapshot. No account, 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://fe-image-transform-lite-landing.vercel.app/icon.png" width="48" height="48" alt="Image Transform Lite icon"><br>
+<img src="https://image-lite.maecly.com/icon.png" width="48" height="48" alt="Image Transform Lite icon"><br>
 <b>Image Transform Lite</b> <sub>· stable · source private for now</sub><br>
 Batch image processing for macOS on Apple Silicon. Eight transforms (flip, rotate, safe square crop, resize, brightness, contrast, sharpness and a text watermark) with a live before/after preview and reusable presets. Outputs WebP, JPEG, PNG or TIFF.<br><br>
 <img src="https://img.shields.io/badge/release-v1.5.1-0E5E6F?style=flat-square" alt="Latest release: v1.5.1">
 <img src="https://img.shields.io/badge/license-MIT-555?style=flat-square" alt="License: MIT"><br>
-<a href="https://fe-image-transform-lite-landing.vercel.app/en/">Website</a>
+<a href="https://image-lite.maecly.com/en">Website</a>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
@@ -136,5 +136,5 @@ Issues, translations, tests and fixes are welcome on the open-source products (e
 
 <div align="center">
 <sub><b>MAECLY</b> = <code>MAEC</code> (Miguel Angel Esparza Calero) + <code>-ly</code>. Not <i>what</i> gets built, but <i>how</i>.</sub><br>
-<sub><a href="https://www.maecly.com/">maecly.com</a> · <a href="mailto:hola@maecly.com">hola@maecly.com</a> · Quito, Ecuador</sub>
+<sub><a href="https://maecly.com/">maecly.com</a> · Made by <a href="https://miguel.maecly.com/">Miguel Angel Esparza Calero</a> · <a href="mailto:hola@maecly.com">hola@maecly.com</a> · Quito, Ecuador</sub>
 </div>
