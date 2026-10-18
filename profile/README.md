@@ -42,11 +42,11 @@ Offline novel-writing app that keeps every draft as a Git snapshot. No account, 
 <tr>
 <td width="50%" valign="top">
 <img src="https://image-lite.maecly.com/icon.png" width="48" height="48" alt="Image Transform Lite icon"><br>
-<b>Image Transform Lite</b> <sub>· stable · source private for now</sub><br>
+<b><a href="https://github.com/MAECLY/image-transform-lite">Image Transform Lite</a></b> <sub>· stable</sub><br>
 Batch image processing for macOS on Apple Silicon. Eight transforms (flip, rotate, safe square crop, resize, brightness, contrast, sharpness and a text watermark) with a live before/after preview and reusable presets. Outputs WebP, JPEG, PNG or TIFF.<br><br>
-<img src="https://img.shields.io/badge/release-v1.5.1-0E5E6F?style=flat-square" alt="Latest release: v1.5.1">
-<img src="https://img.shields.io/badge/license-MIT-555?style=flat-square" alt="License: MIT"><br>
-<a href="https://image-lite.maecly.com/en">Website</a>
+<a href="https://github.com/MAECLY/image-transform-lite/releases/latest"><img src="https://img.shields.io/badge/release-v1.6.0-0E5E6F?style=flat-square" alt="Latest release: v1.6.0"></a>
+<img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
+<a href="https://image-lite.maecly.com/en">Website</a> · <a href="https://github.com/MAECLY/image-transform-lite/releases/latest">Download</a>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
