@@ -12,7 +12,7 @@ Your files and your activity stay on your machine. When a tool doesn't know some
 </div>
 
 > [!NOTE]
-> **October 2026:** Coverly ROMs ships its first release · MaeclyPrint is now **Pluryprint** · **Versorium** and **Image Transform Lite** join the family.
+> **October 2026:** Coverly ROMs ships its first release · MaeclyPrint is now **Pluryprint** · **Versorium**, **Image Transform Lite** and **Creatix** join the family.
 
 Every product here started as a friction I hit myself: writing standups by hand, printing 300 files 15 at a time, ROMs with no cover art, losing a novel draft. None of them hands that friction to someone else's server.
 
@@ -98,6 +98,21 @@ Chrome extension that tells AI agents driving the browser where they are: <code>
 </tr>
 </table>
 
+## 🎬 Creator tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://creatix-yt.maecly.com/apple-icon" width="48" height="48" alt="Creatix icon"><br>
+<b><a href="https://creatix-yt.maecly.com/">Creatix</a></b> <sub>· live · source coming soon</sub><br>
+Free web tools for YouTube creators: channel analyzer and compare, tag, title, description and comment analyzers, a thumbnail previewer, trending thumbnails and revenue estimates. Sign in only if you want history and scheduled email reports.<br><br>
+<img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
+<a href="https://creatix-yt.maecly.com/">Website</a>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
 ## 🔭 In the works
 
 The product repositories are private while they're being built, and there's nothing to download yet.
@@ -130,7 +145,7 @@ Roughly half Rust, half TypeScript: desktop apps with web UIs, not websites. Als
 
 ## 🤝 Contributing
 
-Issues, translations, tests and fixes are welcome on the open-source products (everything above except ID Bridge IA, which is source-visible but proprietary). Read the repository's `CONTRIBUTING.md` and `SECURITY.md` where present. Report security issues privately, never in a public issue.
+Issues, translations, tests and fixes are welcome on the open-source products (everything above except ID Bridge IA, which is source-visible but proprietary, and Creatix, whose source is coming soon). Read the repository's `CONTRIBUTING.md` and `SECURITY.md` where present. Report security issues privately, never in a public issue.
 
 ---
 
