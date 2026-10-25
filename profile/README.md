@@ -12,7 +12,7 @@ Your files and your activity stay on your machine. When a tool doesn't know some
 </div>
 
 > [!NOTE]
-> **October 2026:** Coverly ROMs ships its first release · MaeclyPrint is now **Pluryprint** · **Versorium**, **Image Transform Lite** and **Creatix** join the family.
+> **October 2026:** Coverly ROMs ships its first release · **Coverly Shelf** brings box art to 3DS game pages in your browser · MaeclyPrint is now **Pluryprint** · **Versorium**, **Image Transform Lite** and **Creatix** join the family.
 
 Every product here started as a friction I hit myself: writing standups by hand, printing 300 files 15 at a time, ROMs with no cover art, losing a novel draft. None of them hands that friction to someone else's server.
 
@@ -72,6 +72,17 @@ Stream Deck plugin with seven Windows 11 gaming controls on your keys: Game Mode
 <img src="https://img.shields.io/badge/license-MIT-555?style=flat-square" alt="License: MIT"><br>
 <a href="https://gaming-toggles.maecly.com/">Website</a> · <a href="https://marketplace.elgato.com/product/gaming-toggles-for-pc-404d89bd-746d-4d2e-ac66-ac87ef96d2e4">Elgato Marketplace</a>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/MAECLY/coverly-shelf/main/public/icon/128.png" width="48" height="48" alt="Coverly Shelf icon"><br>
+<b><a href="https://github.com/MAECLY/coverly-shelf">Coverly Shelf</a></b> <sub>· early release</sub><br>
+Browser extension that adds box art and screenshots to 3DS game pages. Purely cosmetic: it never touches downloads or how the site works. Chrome, Edge and Brave.<br><br>
+<a href="https://github.com/MAECLY/coverly-shelf/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/coverly-shelf?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
+<a href="https://coverly-shelf.maecly.com/en/">Website</a> · <a href="https://github.com/MAECLY/coverly-shelf/releases/latest">Download</a>
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
