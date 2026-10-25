@@ -9,6 +9,8 @@ Your files and your activity stay on your machine. When a tool doesn't know some
 
 [![Website](https://img.shields.io/badge/web-maecly.com-0A0A0A?style=flat-square)](https://maecly.com/) [![Email](https://img.shields.io/badge/email-hola%40maecly.com-0E5E6F?style=flat-square)](mailto:hola@maecly.com) ![Location](https://img.shields.io/badge/made_in-Quito%2C_Ecuador-FFD100?style=flat-square) ![Local-first](https://img.shields.io/badge/local--first-zero_telemetry-2a6f6a?style=flat-square)
 
+[![Views](https://hits.sh/github.com/MAECLY/.github.svg?style=flat-square&label=profile%20views&color=0E5E6F)](https://hits.sh/github.com/MAECLY/.github/)
+
 </div>
 
 > [!NOTE]
