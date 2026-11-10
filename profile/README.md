@@ -78,11 +78,12 @@ Stream Deck plugin with seven Windows 11 gaming controls on your keys: Game Mode
 <tr>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/MAECLY/coverly-shelf/main/public/icon/128.png" width="48" height="48" alt="Coverly Shelf icon"><br>
-<b><a href="https://github.com/MAECLY/coverly-shelf">Coverly Shelf</a></b> <sub>· early release</sub><br>
+<b><a href="https://github.com/MAECLY/coverly-shelf">Coverly Shelf</a></b> <sub>· on the Chrome Web Store</sub><br>
 Browser extension that adds box art and screenshots to 3DS game pages. Purely cosmetic: it never touches downloads or how the site works. Chrome, Edge and Brave.<br><br>
 <a href="https://github.com/MAECLY/coverly-shelf/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/coverly-shelf?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<a href="https://chromewebstore.google.com/detail/coverly-shelf/ahafjflkfcijeoaggjhjpgekbchjpfie"><img src="https://img.shields.io/chrome-web-store/v/ahafjflkfcijeoaggjhjpgekbchjpfie?style=flat-square&label=chrome%20web%20store&color=0E5E6F" alt="Chrome Web Store version"></a>
 <img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
-<a href="https://coverly-shelf.maecly.com/en/">Website</a> · <a href="https://github.com/MAECLY/coverly-shelf/releases/latest">Download</a>
+<a href="https://coverly-shelf.maecly.com/en/">Website</a> · <a href="https://chromewebstore.google.com/detail/coverly-shelf/ahafjflkfcijeoaggjhjpgekbchjpfie">Chrome Web Store</a>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
