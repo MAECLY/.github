@@ -30,7 +30,7 @@ jobs:
           node-version: 22
 
       - name: Test the generator
-        run: node --test scripts/
+        run: node --test scripts/build-readme.test.mjs
 
       - name: Rebuild the catalog section from maecly.com/catalog.json
         env:

@@ -1,4 +1,4 @@
-// Run with: node --test scripts/
+// Run with: node --test scripts/build-readme.test.mjs
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { mkdtemp, readFile, writeFile, rm } from "node:fs/promises";
