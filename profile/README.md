@@ -186,7 +186,7 @@ Roughly half Rust, half TypeScript: desktop apps with web UIs, not websites. Als
 
 ## 🤝 Contributing
 
-Issues, translations, tests and fixes are welcome on the open-source products (everything above except ID Bridge IA, which is source-visible but proprietary, and Creatix, whose source is coming soon). Read the repository's `CONTRIBUTING.md` and `SECURITY.md` where present. Report security issues privately, never in a public issue.
+Issues, translations, tests and fixes are welcome on the open-source products (everything above with a source link, except ID Bridge IA, which is source-visible but proprietary; Creatix YT and VPN Fix have no public source yet). Read the repository's `CONTRIBUTING.md` and `SECURITY.md` where present. Report security issues privately, never in a public issue.
 
 ---
 
