@@ -13,8 +13,9 @@ Your files and your activity stay on your machine. When a tool doesn't know some
 
 </div>
 
+<!-- catalog:start -->
 > [!NOTE]
-> **October 2026:** Coverly ROMs ships its first release · **Coverly Shelf** brings box art to 3DS game pages in your browser · MaeclyPrint is now **Pluryprint** · **Versorium**, **Image Transform Lite** and **Creatix** join the family.
+> **Latest:** **Image Transform Lite** [v1.7.0](https://github.com/MAECLY/image-transform-lite/releases/tag/v1.7.0), November 10, 2026 · Also new in the last 30 days: **Pluryprint** [v0.0.4](https://github.com/MAECLY/pluryprint/releases/tag/v0.0.4), **Coverly ROMs** [v0.4.0](https://github.com/MAECLY/coverly-roms/releases/tag/v0.4.0), **Coverly Shelf** [v0.2.0](https://github.com/MAECLY/coverly-shelf/releases/tag/v0.2.0)
 
 Every product here started as a friction I hit myself: writing standups by hand, printing 300 files 15 at a time, ROMs with no cover art, losing a novel draft. None of them hands that friction to someone else's server.
 
@@ -25,30 +26,59 @@ Every product here started as a friction I hit myself: writing standups by hand,
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/MAECLY/pluryprint/main/src-tauri/icons/128x128.png" width="56" height="56" alt="Pluryprint icon"><br>
+<img src="https://maecly.com/products/pluryprint.png" width="48" height="48" alt="Pluryprint icon"><br>
 <b><a href="https://github.com/MAECLY/pluryprint">Pluryprint</a></b> <sub>· pre-alpha preview</sub><br>
-Right-click 5, 50 or 500 files and print them all. No 15-file Explorer limit, no Adobe, no $149 license. Windows and macOS.<br><br>
-<a href="https://github.com/MAECLY/pluryprint/releases/latest"><img src="https://img.shields.io/badge/release-v0.0.3-0E5E6F?style=flat-square" alt="Latest release: v0.0.3"></a>
+Right-click 5, 50 or 500 files and print them all. No 15-file Explorer limit, no Adobe, no $149 license.<br>
+<sub>Windows and macOS</sub><br><br>
+<a href="https://github.com/MAECLY/pluryprint/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/pluryprint?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<a href="https://github.com/MAECLY/pluryprint/releases/latest"><img src="https://img.shields.io/github/downloads/MAECLY/pluryprint/total?style=flat-square&color=0E5E6F" alt="GitHub downloads"></a>
 <img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
 <a href="https://pluryprint.maecly.com/en/">Website</a> · <a href="https://github.com/MAECLY/pluryprint/releases/latest">Download</a>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/MAECLY/versorium-app/main/.github/readme/icon.png" width="48" height="48" alt="Versorium icon"><br>
+<img src="https://maecly.com/products/versorium.png" width="48" height="48" alt="Versorium icon"><br>
 <b><a href="https://github.com/MAECLY/versorium-app">Versorium</a></b> <sub>· early release</sub><br>
-Offline novel-writing app that keeps every draft as a Git snapshot. No account, no telemetry, and the AI stays off until you call it. Windows, macOS and Linux.<br><br>
-<a href="https://github.com/MAECLY/versorium-app/releases/latest"><img src="https://img.shields.io/badge/release-v0.1.2-0E5E6F?style=flat-square" alt="Latest release: v0.1.2"></a>
+Offline novel-writing app that keeps every draft as a Git snapshot. No account, no telemetry, and the AI stays off until you call it.<br>
+<sub>Windows, macOS and Linux</sub><br><br>
+<a href="https://github.com/MAECLY/versorium-app/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/versorium-app?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<a href="https://github.com/MAECLY/versorium-app/releases/latest"><img src="https://img.shields.io/github/downloads/MAECLY/versorium-app/total?style=flat-square&color=0E5E6F" alt="GitHub downloads"></a>
 <img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
 <a href="https://versorium.maecly.com/en/">Website</a> · <a href="https://github.com/MAECLY/versorium-app/releases/latest">Download</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://image-lite.maecly.com/icon.png" width="48" height="48" alt="Image Transform Lite icon"><br>
+<img src="https://maecly.com/products/image-transform-lite.png" width="48" height="48" alt="Image Transform Lite icon"><br>
 <b><a href="https://github.com/MAECLY/image-transform-lite">Image Transform Lite</a></b> <sub>· stable</sub><br>
-Batch image processing for macOS on Apple Silicon. Eight transforms (flip, rotate, safe square crop, resize, brightness, contrast, sharpness and a text watermark) with a live before/after preview and reusable presets. Outputs WebP, JPEG, PNG or TIFF.<br><br>
-<a href="https://github.com/MAECLY/image-transform-lite/releases/latest"><img src="https://img.shields.io/badge/release-v1.6.0-0E5E6F?style=flat-square" alt="Latest release: v1.6.0"></a>
+Batch image processing for macOS on Apple Silicon, with a live before/after preview and reusable presets. Outputs WebP, JPEG, PNG or TIFF.<br>
+<sub>macOS · Apple Silicon</sub><br><br>
+<a href="https://github.com/MAECLY/image-transform-lite/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/image-transform-lite?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<a href="https://github.com/MAECLY/image-transform-lite/releases/latest"><img src="https://img.shields.io/github/downloads/MAECLY/image-transform-lite/total?style=flat-square&color=0E5E6F" alt="GitHub downloads"></a>
 <img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
 <a href="https://image-lite.maecly.com/en">Website</a> · <a href="https://github.com/MAECLY/image-transform-lite/releases/latest">Download</a>
+</td>
+<td width="50%" valign="top">
+<img src="https://maecly.com/products/vpn-fix.png" width="48" height="48" alt="VPN Fix icon"><br>
+<b><a href="https://vpn-fix.maecly.com">VPN Fix</a></b> <sub>· website live</sub><br>
+Native macOS menu-bar app that restores your internet connection after a VPN disconnects. Supports 17+ VPN clients.<br>
+<sub>macOS · Source and downloads not public yet</sub><br><br>
+<img src="https://img.shields.io/badge/license-MIT-555?style=flat-square" alt="License: MIT"><br>
+<a href="https://vpn-fix.maecly.com">Website</a>
+</td>
+</tr>
+</table>
+
+## 🎬 Creator tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://maecly.com/products/creatix.png" width="48" height="48" alt="Creatix YT icon"><br>
+<b><a href="https://creatix-yt.maecly.com/en">Creatix YT</a></b> <sub>· website live</sub><br>
+Free tools for YouTube creators: analyze any public channel, compare up to five side by side, and polish titles, tags, descriptions and thumbnails. No ads, no account needed.<br>
+<sub>Web · English and Spanish. Source coming soon</sub><br><br>
+<img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
+<a href="https://creatix-yt.maecly.com/en">Website</a>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
@@ -59,31 +89,38 @@ Batch image processing for macOS on Apple Silicon. Eight transforms (flip, rotat
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/MAECLY/coverly-roms/main/src-tauri/icons/128x128.png" width="56" height="56" alt="Coverly ROMs icon"><br>
+<img src="https://maecly.com/products/coverly-roms.png" width="48" height="48" alt="Coverly ROMs icon"><br>
 <b><a href="https://github.com/MAECLY/coverly-roms">Coverly ROMs</a></b> <sub>· first release</sub><br>
-Finds the ROMs on your handheld's SD card that have no cover art and fills them in. Dry run first, undo afterwards. Desktop app and CLI for Windows, macOS and Linux.<br><br>
+Finds the ROMs on your handheld's SD card that have no cover art and fills them in. Dry run first, undo afterwards.<br>
+<sub>Windows, macOS and Linux · Desktop app and CLI</sub><br><br>
 <a href="https://github.com/MAECLY/coverly-roms/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/coverly-roms?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<a href="https://github.com/MAECLY/coverly-roms/releases/latest"><img src="https://img.shields.io/github/downloads/MAECLY/coverly-roms/total?style=flat-square&color=0E5E6F" alt="GitHub downloads"></a>
 <img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
 <a href="https://coverly-roms.maecly.com/en/">Website</a> · <a href="https://github.com/MAECLY/coverly-roms/releases/latest">Download</a>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/MAECLY/gaming-toggles/main/com.maecly.gamingtoggles.sdPlugin/imgs/plugin/marketplace@2x.png" width="48" height="48" alt="Gaming Toggles for PC icon"><br>
-<b><a href="https://github.com/MAECLY/gaming-toggles">Gaming Toggles for PC</a></b> <sub>· stable</sub><br>
-Stream Deck plugin with seven Windows 11 gaming controls on your keys: Game Mode, full-screen gaming mode (<kbd>Win</kbd>+<kbd>F11</kbd>), pointer precision, power plan A/B and more. No admin rights.<br><br>
-<a href="https://github.com/MAECLY/gaming-toggles/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/gaming-toggles?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
-<img src="https://img.shields.io/badge/license-MIT-555?style=flat-square" alt="License: MIT"><br>
-<a href="https://gaming-toggles.maecly.com/">Website</a> · <a href="https://marketplace.elgato.com/product/gaming-toggles-for-pc-404d89bd-746d-4d2e-ac66-ac87ef96d2e4">Elgato Marketplace</a>
+<img src="https://maecly.com/products/coverly-shelf.png" width="48" height="48" alt="Coverly Shelf icon"><br>
+<b><a href="https://github.com/MAECLY/coverly-shelf">Coverly Shelf</a></b> <sub>· on the Chrome Web Store</sub><br>
+Browser extension that adds box art and screenshots to 3DS game pages. Purely cosmetic: it never touches downloads or how the site works.<br>
+<sub>Chrome, Edge and Brave · Manifest V3</sub><br><br>
+<a href="https://github.com/MAECLY/coverly-shelf/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/coverly-shelf?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<a href="https://github.com/MAECLY/coverly-shelf/releases/latest"><img src="https://img.shields.io/github/downloads/MAECLY/coverly-shelf/total?style=flat-square&color=0E5E6F" alt="GitHub downloads"></a>
+<a href="https://chromewebstore.google.com/detail/coverly-shelf/ahafjflkfcijeoaggjhjpgekbchjpfie"><img src="https://img.shields.io/chrome-web-store/v/ahafjflkfcijeoaggjhjpgekbchjpfie?style=flat-square&label=Chrome%20Web%20Store&color=4285F4" alt="Chrome Web Store version"></a>
+<img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
+<a href="https://coverly-shelf.maecly.com/en/">Website</a> · <a href="https://chromewebstore.google.com/detail/coverly-shelf/ahafjflkfcijeoaggjhjpgekbchjpfie">Chrome Web Store</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/MAECLY/coverly-shelf/main/public/icon/128.png" width="48" height="48" alt="Coverly Shelf icon"><br>
-<b><a href="https://github.com/MAECLY/coverly-shelf">Coverly Shelf</a></b> <sub>· on the Chrome Web Store</sub><br>
-Browser extension that adds box art and screenshots to 3DS game pages. Purely cosmetic: it never touches downloads or how the site works. Chrome, Edge and Brave.<br><br>
-<a href="https://github.com/MAECLY/coverly-shelf/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/coverly-shelf?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
-<a href="https://chromewebstore.google.com/detail/coverly-shelf/ahafjflkfcijeoaggjhjpgekbchjpfie"><img src="https://img.shields.io/chrome-web-store/v/ahafjflkfcijeoaggjhjpgekbchjpfie?style=flat-square&label=chrome%20web%20store&color=0E5E6F" alt="Chrome Web Store version"></a>
-<img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
-<a href="https://coverly-shelf.maecly.com/en/">Website</a> · <a href="https://chromewebstore.google.com/detail/coverly-shelf/ahafjflkfcijeoaggjhjpgekbchjpfie">Chrome Web Store</a>
+<img src="https://maecly.com/products/gaming-toggles.png" width="48" height="48" alt="Gaming Toggles for PC icon"><br>
+<b><a href="https://github.com/MAECLY/gaming-toggles">Gaming Toggles for PC</a></b> <sub>· stable</sub><br>
+Stream Deck plugin with seven Windows 11 gaming controls on your keys: Game Mode, full-screen gaming mode, pointer precision, power plan A/B and more. No admin rights.<br>
+<sub>Stream Deck · Windows 11</sub><br><br>
+<a href="https://github.com/MAECLY/gaming-toggles/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/gaming-toggles?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<a href="https://github.com/MAECLY/gaming-toggles/releases/latest"><img src="https://img.shields.io/github/downloads/MAECLY/gaming-toggles/total?style=flat-square&color=0E5E6F" alt="GitHub downloads"></a>
+<a href="https://marketplace.elgato.com/product/gaming-toggles-for-pc-404d89bd-746d-4d2e-ac66-ac87ef96d2e4"><img src="https://img.shields.io/badge/Elgato%20Marketplace-324%20downloads%20%C2%B7%20as%20of%20Oct%2024%2C%202026-0E5E6F?style=flat-square" alt="Elgato Marketplace: 324 downloads · as of Oct 24, 2026"></a>
+<img src="https://img.shields.io/badge/license-MIT-555?style=flat-square" alt="License: MIT"><br>
+<a href="https://gaming-toggles.maecly.com/en/">Website</a> · <a href="https://marketplace.elgato.com/product/gaming-toggles-for-pc-404d89bd-746d-4d2e-ac66-ac87ef96d2e4">Elgato Marketplace</a>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
@@ -94,36 +131,25 @@ Browser extension that adds box art and screenshots to 3DS game pages. Purely co
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/MAECLY/autostand/main/brand/logo/logo-mark.svg" width="48" height="48" alt="autostand icon"><br>
+<img src="https://maecly.com/products/autostand.svg" width="48" height="48" alt="autostand icon"><br>
 <b><a href="https://github.com/MAECLY/autostand">autostand</a></b> <sub>· stable</sub><br>
-Your standup, written from what you actually did. Reads your commits, PRs, AI coding sessions and notes, and files a structured standup every working day. Works with a built-in local model runtime (model downloaded on demand) and no account.<br><br>
+Your standup, written from what you actually did. Reads your commits, PRs, AI coding sessions and notes, and files a structured standup every working day.<br>
+<sub>Windows, macOS and Linux · Local model runtime, no account</sub><br><br>
 <a href="https://github.com/MAECLY/autostand/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/autostand?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<a href="https://github.com/MAECLY/autostand/releases/latest"><img src="https://img.shields.io/github/downloads/MAECLY/autostand/total?style=flat-square&color=0E5E6F" alt="GitHub downloads"></a>
 <img src="https://img.shields.io/badge/license-MIT-555?style=flat-square" alt="License: MIT"><br>
 <a href="https://autostand.maecly.com">Website</a> · <a href="https://github.com/MAECLY/autostand/releases/latest">Download</a>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/MAECLY/id-bridge-ia/main/public/icon/128.png" width="48" height="48" alt="ID Bridge IA icon"><br>
+<img src="https://maecly.com/products/id-bridge-ia.svg" width="48" height="48" alt="ID Bridge IA icon"><br>
 <b><a href="https://github.com/MAECLY/id-bridge-ia">ID Bridge IA</a></b> <sub>· on the Chrome Web Store</sub><br>
-Chrome extension that tells AI agents driving the browser where they are: <code>tabId</code>, <code>windowId</code>, <code>groupId</code>, a session ID and the Chrome profile. Built for chrome-devtools-mcp. Declares no host permissions.<br><br>
+Chrome extension that tells AI agents driving the browser where they are: tabId, windowId, groupId, a session ID and the Chrome profile. Declares no host permissions.<br>
+<sub>Chrome · Manifest V3</sub><br><br>
 <a href="https://github.com/MAECLY/id-bridge-ia/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/id-bridge-ia?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
-<img src="https://img.shields.io/badge/license-proprietary-555?style=flat-square" alt="License: proprietary, source visible"><br>
+<a href="https://chromewebstore.google.com/detail/id-bridge-ia/knfgphmhijlbgdjhcciofodedgdifpij"><img src="https://img.shields.io/chrome-web-store/v/knfgphmhijlbgdjhcciofodedgdifpij?style=flat-square&label=Chrome%20Web%20Store&color=4285F4" alt="Chrome Web Store version"></a>
+<img src="https://img.shields.io/badge/license-Proprietary%2C%20source--visible-555?style=flat-square" alt="License: Proprietary, source-visible"><br>
 <a href="https://id-bridge-ia.maecly.com/">Website</a> · <a href="https://chromewebstore.google.com/detail/id-bridge-ia/knfgphmhijlbgdjhcciofodedgdifpij">Chrome Web Store</a>
 </td>
-</tr>
-</table>
-
-## 🎬 Creator tools
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="https://creatix-yt.maecly.com/apple-icon" width="48" height="48" alt="Creatix icon"><br>
-<b><a href="https://creatix-yt.maecly.com/">Creatix</a></b> <sub>· live · source coming soon</sub><br>
-Free web tools for YouTube creators: channel analyzer and compare, tag, title, description and comment analyzers, a thumbnail previewer, trending thumbnails and revenue estimates. Sign in only if you want history and scheduled email reports.<br><br>
-<img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
-<a href="https://creatix-yt.maecly.com/">Website</a>
-</td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -133,7 +159,8 @@ The product repositories are private while they're being built, and there's noth
 
 - 🎨 **OpenDesign** · pre-beta: a local-first, bring-your-own-key design tool that will be open source. AI design generation runs on your own models, and every artifact stays on disk. [opendesign.maecly.com](https://opendesign.maecly.com)
 - 🎞️ **WorklyReel** · phase 0 proof of concept: turns a day or a week of Git and GitHub activity into a ready-to-post proof-of-work card, with every claim linked back to its evidence. [workly-reel.maecly.com](https://workly-reel.maecly.com) · [landing page source](https://github.com/MAECLY/workly-reel-landing)
-- 🎧 **Aurenly** · paused: sends the audio of *one* Chrome tab to the devices you listen on, leaving the rest of your Mac's sound where it is.
+- 🎧 **Aurenly** · paused: sends the audio of one Chrome tab to the devices you listen on, leaving the rest of your Mac's sound where it is.
+<!-- catalog:end -->
 
 ---
 
