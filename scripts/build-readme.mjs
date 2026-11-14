@@ -22,7 +22,7 @@ const HEADINGS = {
   desktop: "🖥️ Desktop apps",
   gaming: "🕹️ Gaming & retro",
   devtools: "🧰 Developer tools",
-  web: "🎬 Creator tools",
+  web: "🌐 Web & browser",
   works: "🔭 In the works",
 };
 
