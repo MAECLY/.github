@@ -15,7 +15,7 @@ Your files and your activity stay on your machine. When a tool doesn't know some
 
 <!-- catalog:start -->
 > [!NOTE]
-> **Latest:** **Image Transform Lite** [v1.7.0](https://github.com/MAECLY/image-transform-lite/releases/tag/v1.7.0), November 10, 2026 · Also new in the last 30 days: **Pluryprint** [v0.0.4](https://github.com/MAECLY/pluryprint/releases/tag/v0.0.4), **Coverly ROMs** [v0.4.0](https://github.com/MAECLY/coverly-roms/releases/tag/v0.4.0), **Coverly Shelf** [v0.2.0](https://github.com/MAECLY/coverly-shelf/releases/tag/v0.2.0)
+> **Latest:** **Pluryfact** [v0.1.0](https://github.com/MAECLY/pluryfact/releases/tag/v0.1.0), November 14, 2026 · Also new in the last 30 days: **Image Transform Lite** [v1.7.0](https://github.com/MAECLY/image-transform-lite/releases/tag/v1.7.0), **Pluryprint** [v0.0.4](https://github.com/MAECLY/pluryprint/releases/tag/v0.0.4), **Coverly ROMs** [v0.4.0](https://github.com/MAECLY/coverly-roms/releases/tag/v0.4.0), **Coverly Shelf** [v0.2.0](https://github.com/MAECLY/coverly-shelf/releases/tag/v0.2.0)
 
 Every product here started as a friction I hit myself: writing standups by hand, printing 300 files 15 at a time, ROMs with no cover art, losing a novel draft. None of them hands that friction to someone else's server.
 
@@ -68,10 +68,20 @@ Native macOS menu-bar app that restores your internet connection after a VPN dis
 </tr>
 </table>
 
-## 🎬 Creator tools
+## 🌐 Web & browser
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<img src="https://maecly.com/products/pluryfact.png" width="48" height="48" alt="Pluryfact icon"><br>
+<b><a href="https://github.com/MAECLY/pluryfact">Pluryfact</a></b> <sub>· in review on the Chrome Web Store</sub><br>
+Chrome extension that bulk-downloads your electronic tax documents from Ecuador's SRI en Línea: authorised XML, RIDE (PDF) and the TXT report, sorted by year and month in one ZIP. Never asks for your password.<br>
+<sub>Chrome · Manifest V3 · No servers, no telemetry</sub><br><br>
+<a href="https://github.com/MAECLY/pluryfact/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/pluryfact?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
+<a href="https://github.com/MAECLY/pluryfact/releases/latest"><img src="https://img.shields.io/github/downloads/MAECLY/pluryfact/total?style=flat-square&color=0E5E6F" alt="GitHub downloads"></a>
+<img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
+<a href="https://pluryfact.maecly.com/en/">Website</a> · <a href="https://github.com/MAECLY/pluryfact/releases/latest">Download</a>
+</td>
 <td width="50%" valign="top">
 <img src="https://maecly.com/products/creatix.png" width="48" height="48" alt="Creatix YT icon"><br>
 <b><a href="https://creatix-yt.maecly.com/en">Creatix YT</a></b> <sub>· website live</sub><br>
@@ -80,7 +90,6 @@ Free tools for YouTube creators: analyze any public channel, compare up to five 
 <img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
 <a href="https://creatix-yt.maecly.com/en">Website</a>
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -158,7 +167,7 @@ Chrome extension that tells AI agents driving the browser where they are: tabId,
 The product repositories are private while they're being built, and there's nothing to download yet.
 
 - 🎨 **OpenDesign** · pre-beta: a local-first, bring-your-own-key design tool that will be open source. AI design generation runs on your own models, and every artifact stays on disk. [opendesign.maecly.com](https://opendesign.maecly.com)
-- 🎞️ **WorklyReel** · phase 0 proof of concept: turns a day or a week of Git and GitHub activity into a ready-to-post proof-of-work card, with every claim linked back to its evidence. [workly-reel.maecly.com](https://workly-reel.maecly.com) · [landing page source](https://github.com/MAECLY/workly-reel-landing)
+- 🎞️ **WorklyReel** · phase 0 proof of concept: turns a day or a week of Git and GitHub activity into a ready-to-post proof-of-work card, with every claim linked back to its evidence. [workly-reel.maecly.com](https://workly-reel.maecly.com)
 - 🎧 **Aurenly** · paused: sends the audio of one Chrome tab to the devices you listen on, leaving the rest of your Mac's sound where it is.
 <!-- catalog:end -->
 
