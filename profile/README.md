@@ -15,7 +15,7 @@ Your files and your activity stay on your machine. When a tool doesn't know some
 
 <!-- catalog:start -->
 > [!NOTE]
-> **Latest:** **Pluryprint** [v0.0.6](https://github.com/MAECLY/pluryprint/releases/tag/v0.0.6), November 14, 2026 · Also new in the last 30 days: **Pluryfact** [v0.1.0](https://github.com/MAECLY/pluryfact/releases/tag/v0.1.0), **Image Transform Lite** [v1.7.0](https://github.com/MAECLY/image-transform-lite/releases/tag/v1.7.0), **Coverly ROMs** [v0.4.0](https://github.com/MAECLY/coverly-roms/releases/tag/v0.4.0), **Coverly Shelf** [v0.2.0](https://github.com/MAECLY/coverly-shelf/releases/tag/v0.2.0)
+> **Latest:** **Coverly ROMs** [v0.5.2](https://github.com/MAECLY/coverly-roms/releases/tag/v0.5.2), November 15, 2026 · Also new in the last 30 days: **Pluryprint** [v0.0.6](https://github.com/MAECLY/pluryprint/releases/tag/v0.0.6), **Pluryfact** [v0.1.0](https://github.com/MAECLY/pluryfact/releases/tag/v0.1.0), **Image Transform Lite** [v1.7.0](https://github.com/MAECLY/image-transform-lite/releases/tag/v1.7.0), **Coverly Shelf** [v0.2.0](https://github.com/MAECLY/coverly-shelf/releases/tag/v0.2.0)
 
 Every product here started as a friction I hit myself: writing standups by hand, printing 300 files 15 at a time, ROMs with no cover art, losing a novel draft. None of them hands that friction to someone else's server.
 
@@ -74,13 +74,14 @@ Native macOS menu-bar app that restores your internet connection after a VPN dis
 <tr>
 <td width="50%" valign="top">
 <img src="https://maecly.com/products/pluryfact.png" width="48" height="48" alt="Pluryfact icon"><br>
-<b><a href="https://github.com/MAECLY/pluryfact">Pluryfact</a></b> <sub>· in review on the Chrome Web Store</sub><br>
+<b><a href="https://github.com/MAECLY/pluryfact">Pluryfact</a></b> <sub>· on the Chrome Web Store</sub><br>
 Chrome extension that bulk-downloads your electronic tax documents from Ecuador's SRI en Línea: authorised XML, RIDE (PDF) and the TXT report, sorted by year and month in one ZIP. Never asks for your password.<br>
 <sub>Chrome · Manifest V3 · No servers, no telemetry</sub><br><br>
 <a href="https://github.com/MAECLY/pluryfact/releases/latest"><img src="https://img.shields.io/github/v/release/MAECLY/pluryfact?style=flat-square&label=release&color=0E5E6F" alt="Latest release"></a>
 <a href="https://github.com/MAECLY/pluryfact/releases/latest"><img src="https://img.shields.io/github/downloads/MAECLY/pluryfact/total?style=flat-square&color=0E5E6F" alt="GitHub downloads"></a>
+<a href="https://chromewebstore.google.com/detail/pluryfact/ibgodfpcihlddbbfaoooehfgbmahipbj"><img src="https://img.shields.io/chrome-web-store/v/ibgodfpcihlddbbfaoooehfgbmahipbj?style=flat-square&label=Chrome%20Web%20Store&color=4285F4" alt="Chrome Web Store version"></a>
 <img src="https://img.shields.io/badge/license-AGPL--3.0-555?style=flat-square" alt="License: AGPL-3.0"><br>
-<a href="https://pluryfact.maecly.com/en/">Website</a> · <a href="https://github.com/MAECLY/pluryfact/releases/latest">Download</a>
+<a href="https://pluryfact.maecly.com/en/">Website</a> · <a href="https://chromewebstore.google.com/detail/pluryfact/ibgodfpcihlddbbfaoooehfgbmahipbj">Chrome Web Store</a>
 </td>
 <td width="50%" valign="top">
 <img src="https://maecly.com/products/creatix.png" width="48" height="48" alt="Creatix YT icon"><br>
