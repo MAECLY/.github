@@ -15,7 +15,7 @@ Your files and your activity stay on your machine. When a tool doesn't know some
 
 <!-- catalog:start -->
 > [!NOTE]
-> **Latest:** **Coverly ROMs** [v0.5.2](https://github.com/MAECLY/coverly-roms/releases/tag/v0.5.2), November 15, 2026 · Also new in the last 30 days: **Pluryprint** [v0.0.6](https://github.com/MAECLY/pluryprint/releases/tag/v0.0.6), **Pluryfact** [v0.1.0](https://github.com/MAECLY/pluryfact/releases/tag/v0.1.0), **Image Transform Lite** [v1.7.0](https://github.com/MAECLY/image-transform-lite/releases/tag/v1.7.0), **Coverly Shelf** [v0.2.0](https://github.com/MAECLY/coverly-shelf/releases/tag/v0.2.0)
+> **Latest:** **Pluryfact** [v0.2.0](https://github.com/MAECLY/pluryfact/releases/tag/v0.2.0), November 15, 2026 · Also new in the last 30 days: **Coverly ROMs** [v0.5.2](https://github.com/MAECLY/coverly-roms/releases/tag/v0.5.2), **Pluryprint** [v0.0.6](https://github.com/MAECLY/pluryprint/releases/tag/v0.0.6), **Image Transform Lite** [v1.7.0](https://github.com/MAECLY/image-transform-lite/releases/tag/v1.7.0), **Coverly Shelf** [v0.2.0](https://github.com/MAECLY/coverly-shelf/releases/tag/v0.2.0)
 
 Every product here started as a friction I hit myself: writing standups by hand, printing 300 files 15 at a time, ROMs with no cover art, losing a novel draft. None of them hands that friction to someone else's server.
 
